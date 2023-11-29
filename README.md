@@ -1,4 +1,4 @@
-# Sentiment_Ananlysis_with_Multiple_Models
+# Sentiment_Analysis_with_Multiple_Models
 An exploration of Fuzzy Logic and GRU architecture for financial sentiment analysis.
 
 Sentiment analysis, a pivotal aspect of natural language processing, can be approached through two distinct yet effective methods: fuzzy logic and GRU (Gated Recurrent Unit) architecture. Fuzzy logic, with its nuanced and flexible reasoning, excels in capturing the imprecise nature of human emotions, offering an understanding of possible subtleties. On the other hand, sentiment analysis with GRU architecture leverages the power of deep learning and sequential data processing, enabling it to grasp intricate patterns and dependencies in language.
